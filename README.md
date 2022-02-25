@@ -1,6 +1,6 @@
 # Blog React App UI Part
 
-This is a UI of a Blog App made using React. (Backend in the works)
+This is the UI of a Blog App made using React. (Backend in the works)
 
 ## Available Scripts
 
